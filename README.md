@@ -8,9 +8,9 @@ In this example:
 - The '+' button listens to "touchend" events.
 
 To reproduce:
-1. Clone the repo
-2. Launch ```elm-reactor```
-3. Use google chrome dev tools to emulate touch events in your browser
+- 1. Clone the repo
+- 2. Launch ```elm-reactor```
+- 3. Use google chrome dev tools to emulate touch events in your browser
 
 As you can see the '+' button doesn't work, whereas the '-' button works perfectly.
 
